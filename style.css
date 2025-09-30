@@ -36,8 +36,8 @@ nav {
 }
 
 .logo img{
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
 }
 
 .logo p {
@@ -46,10 +46,10 @@ nav {
 }
 
 button {
-    background: rgb(253, 247, 247);
+    background: white;
     border: none;
     margin: 0 10px;
-    font-size: 16px;
+    font-size: 14px;
     cursor: pointer;
     padding: 10px;
     padding-top: 2px;
@@ -57,8 +57,10 @@ button {
 }
 
 button:hover {
-    background-color: #fcfafa;
+    background-color: rgb(243, 240, 240);
     border-radius: 5px;;
+    /* height: 20px;
+    width: 20px; */
 }
 
 p {
@@ -73,14 +75,15 @@ p {
 
 
 #Get_Notion_Free{
-    background-color: black;
+    background-color: #0075de;
     color: white;
-    border-radius: 5px;
+    border-radius: 7px;
+    height: 36px;
 
 }
 
 #Get_Notion_Free:hover{
-    text-shadow: 0px 15px 5px #f2f2f2;
+    background-color: #0583FE;
 }
 
 article{
